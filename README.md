@@ -1,6 +1,6 @@
 # Circular Buffer
 
-STL is a compatible "Circular Buffer" container, extensible and fixed in size.
+STL compatible "Circular Buffer" container, extensible and fixed in size.
 
 [Circular buffer](https://en.wikipedia.org/wiki/Circular_buffer) - a data structure that is often used for buffering in tasks for transmitting and processing a data stream.
 
